@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEha-BUba
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning pyrhon
+- 🌱 I’m currently learning python
 - 📫 How to reach me with my email
 - ⚡ Fun fact: ı am a human
 
